@@ -57,3 +57,5 @@ Citation details will be added upon ArXiv publication.
 
 This project is licensed under the MIT License.
 
+Published: Zenodo — DOI: 10.5281/zenodo.18912771
+
